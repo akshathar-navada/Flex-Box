@@ -1,2 +1,2 @@
-# Flex-_Box
+# Flex-Box
 Flex Box Cash Course
